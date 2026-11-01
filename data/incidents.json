@@ -1,0 +1,11 @@
+[
+    {
+        "ticket_id": "SOC-038FE72A",
+        "created_at": "2026-11-01T22:53:36.067707+00:00",
+        "ip_address": "185.220.101.45",
+        "summary": "Educational demo investigation: simulated dataset labels IP malicious with 87 malicious reports and categories known scanner and suspicious network activity. Illustrative risk score 100/100 (HIGH), consisting of 60 reputation points and 40 report points. Not live threat intelligence or a validated production risk assessment.",
+        "risk_score": 100,
+        "status": "OPEN",
+        "source": "AI SOC Tool Calling Demo"
+    }
+]
